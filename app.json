@@ -8,7 +8,7 @@
         "bot",
         "inline"
     ],
-    "repository": "https://github.com/CodeXBotz/Inline-Filter-Bot",
+    "repository": "https://github.com/Badsha323/Inline-Filter-Bot",
     "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
     "env": {
         "TG_BOT_TOKEN": {
