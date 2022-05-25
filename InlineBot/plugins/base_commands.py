@@ -13,6 +13,7 @@ start_keyboard = [
         InlineKeyboardButton(text = '🤖 About', callback_data = "about")
     ],
     [
+        InlineKeyboardButton(text = 'Search Here', switch_inline_query_current_chat = '')
         InlineKeyboardButton(text = 'Close 🔒', callback_data = "close")
     ]
 ]
