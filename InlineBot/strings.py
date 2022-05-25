@@ -33,13 +33,16 @@ HELP_MESSAGE = f"""<b><u>Main Available Commands</u></b>
     
 ○ <b>/import</b> <i>[reply to an exported file]</i>
     <i>Import filters from Backup file</i>
+
+○ <b>/broadcast</b> <i>[reply to an Message]</i>
+    <i>To Broadcast You Message To All Users/i>
 """
 
 ABOUT_MESSAGE = f"""<b><u>ABOUT ME</u></b>
 
-<b>○ Maintained by : <a href='tg://user?id={OWNER_ID}'>Badsha Studios</a>
-○ Channel : <a href='https://t.me/Badsha_Studios'>𝙱𝚊𝚍𝚜𝚑𝚊 𝚂𝚝𝚞𝚍𝚒𝚘𝚜</a>
-○ Support : <a href='https://t.me/Suport_Badsha_Studios'>𝙱𝚊𝚍𝚜𝚑𝚊 𝚂𝚝𝚞𝚍𝚒𝚘𝚜 Support</a>
+<b>○ Maintained by : <a href='tg://user?id={OWNER_ID}'>Madman8938</a>
+○ Channel : <a href='https://t.me/movietime_request'>Request ur Movies</a>
+○ Support : <a href='https://t.me/madman'>Madman</a>
 ○ Source Code : <a href='https://t.me/Badsha_Studios/32'>Click here</a>
 ○ Language : <a href='https://www.python.org/'>Python 3</a>
 ○ Library : <a href='https://github.com/pyrogram/pyrogram'>Pyrogram Asyncio {__version__}</a></b>
